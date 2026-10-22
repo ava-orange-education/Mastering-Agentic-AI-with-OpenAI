@@ -1,0 +1,8 @@
+{
+  "event_type": "approval_decision",
+  "workflow_id": "wf_93a21",
+  "reviewer_id": "user_4471",
+  "decision": "approved",
+  "decision_basis": "Reviewed generated summary and verified cited sources.",
+  "timestamp": "2026-05-31T19:42:11Z"
+}

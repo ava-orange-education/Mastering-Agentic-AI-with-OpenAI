@@ -1,0 +1,12 @@
+{
+  "workflow_run_id": "wf_10492",
+  "stage": "retrieval",
+  "component": "policy_knowledge_service",
+  "status": "completed",
+  "duration_ms": 842,
+  "metadata": {
+    "source_type": "internal_policy_repository",
+    "documents_returned": 4,
+    "retrieval_quality": "acceptable"
+  }
+}
